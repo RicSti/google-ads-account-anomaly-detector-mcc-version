@@ -4,6 +4,7 @@
 ## Description
 A single account version of this script was published by Google in 2017 and is available here: <a href="https://developers.google.com/google-ads/scripts/docs/solutions/account-anomaly-detector" target="_blank">developers.google.com/google-ads/scripts/docs/solutions/account-anomaly-detector</a>
 
+This MCC version allows the central execution of the Account Anomaly Detector for single, multiple or all accounts connected to an MCC. The settings and results are saved in a common sheet. Individual settings can be made for each account.
 
 ## Installation
 
